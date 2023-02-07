@@ -19,16 +19,16 @@
                 <mxCell id="18" value="Svr-B-02" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0066CC;" parent="1" vertex="1">
                     <mxGeometry x="520" y="200" width="80" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="28" value="" style="edgeStyle=none;html=1;strokeColor=#F0F0F0;" parent="1" source="25" target="16" edge="1">
+                <mxCell id="28" value="" style="edgeStyle=none;html=1;" parent="1" source="25" target="16" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="25" value="Svr-A-03" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#F0F0F0;" parent="1" vertex="1">
+                <mxCell id="25" value="Svr-A-03" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="200" y="320" width="80" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="29" value="" style="edgeStyle=none;html=1;strokeColor=#F0F0F0;" parent="1" source="27" target="16" edge="1">
+                <mxCell id="29" value="" style="edgeStyle=none;html=1;" parent="1" source="27" target="16" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="27" value="Svr-B-03" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#F0F0F0;" parent="1" vertex="1">
+                <mxCell id="27" value="Svr-B-03" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="520" y="320" width="80" height="40" as="geometry"/>
                 </mxCell>
             </root>
