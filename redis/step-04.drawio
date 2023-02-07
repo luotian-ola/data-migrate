@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="aTmyUwazJOv9AOSmKgip" name="第 1 页">
-        <mxGraphModel dx="1186" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+        <mxGraphModel dx="1186" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -31,16 +31,16 @@
                 <mxCell id="18" value="Svr-B-02" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
                     <mxGeometry x="520" y="240" width="80" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="28" value="" style="edgeStyle=none;html=1;strokeColor=#FF0000;" edge="1" parent="1" source="25" target="16">
+                <mxCell id="28" value="" style="edgeStyle=none;html=1;strokeColor=#FF3333;" parent="1" source="25" target="16" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="25" value="Svr-A-03" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF0000;" vertex="1" parent="1">
+                <mxCell id="25" value="Svr-A-03" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF3333;" parent="1" vertex="1">
                     <mxGeometry x="200" y="320" width="80" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="29" value="" style="edgeStyle=none;html=1;strokeColor=#FF0000;" edge="1" parent="1" source="27" target="16">
+                <mxCell id="29" value="" style="edgeStyle=none;html=1;strokeColor=#FF3333;" parent="1" source="27" target="16" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="27" value="Svr-B-03" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF0000;" vertex="1" parent="1">
+                <mxCell id="27" value="Svr-B-03" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF3333;" parent="1" vertex="1">
                     <mxGeometry x="520" y="320" width="80" height="40" as="geometry"/>
                 </mxCell>
             </root>

@@ -1,16 +1,16 @@
 <mxfile host="65bd71144e">
     <diagram id="aTmyUwazJOv9AOSmKgip" name="第 1 页">
-        <mxGraphModel dx="1186" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+        <mxGraphModel dx="1186" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="11" value="" style="edgeStyle=none;html=1;fontSize=14;" edge="1" parent="1" source="2" target="4">
+                <mxCell id="11" value="" style="edgeStyle=none;html=1;fontSize=14;" parent="1" source="2" target="4" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="2" value="Svr-A-01" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="200" y="240" width="80" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="12" value="" style="edgeStyle=none;html=1;fontSize=14;" edge="1" parent="1" source="3" target="4">
+                <mxCell id="12" value="" style="edgeStyle=none;html=1;fontSize=14;" parent="1" source="3" target="4" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="3" value="Svr-B-01" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -19,8 +19,8 @@
                 <mxCell id="4" value="redis-01" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
                     <mxGeometry x="370" y="220" width="60" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="8" value="图0 目前服务存储状况" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-                    <mxGeometry x="330" y="320" width="160" height="30" as="geometry"/>
+                <mxCell id="8" value="目前服务存储状况" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="340" y="320" width="140" height="30" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
